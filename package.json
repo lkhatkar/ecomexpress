@@ -1,0 +1,33 @@
+{
+  "name": "ecomexpress",
+  "version": "1.0.0",
+  "description": "ecomexpress api wrapper node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkhatkar/ecomexpress.git"
+  },
+  "keywords": [
+    "ecomexpress",
+    "api",
+    "wrapper",
+    "node",
+    "nodejs"
+  ],
+  "author": "lkhatkar",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lkhatkar/ecomexpress/issues"
+  },
+  "homepage": "https://github.com/lkhatkar/ecomexpress#readme",
+  "dependencies": {
+    "decompress-response": "^7.0.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "node-gzip": "^1.1.2"
+  }
+}
